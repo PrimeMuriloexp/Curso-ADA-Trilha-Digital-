@@ -14,13 +14,13 @@ Untracked - Unmodified - Modified - Staged
 
 \-------------------------------------------
 
-```
-* git add (nome do arquivo)  = para sair do Modified para ir para o Staged
 
-* git commit -m "add new tittle" = salva o arquivo e com isso retornando para o estado de Unmodified
+* ``` git add ``` (nome do arquivo)  = para sair do Modified para ir para o Staged
+
+* ``` git commit -m ``` "add new tittle" = salva o arquivo e com isso retornando para o estado de Unmodified
 
 * git log = Retorna o Historico de todos os commits (letra 'q' para sair do git log)
-```
+
 
 ## Uso do Comando Restore
 
