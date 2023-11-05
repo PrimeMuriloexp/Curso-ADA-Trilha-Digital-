@@ -5,7 +5,7 @@
 git init = Apos criar seu diretorio local, use esse comando para possibilitar o versionamento no git
 
 
-\## Estados do Git
+# Estados do Git
 
 Untracked - Unmodified - Modified - Staged
 
