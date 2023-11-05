@@ -14,6 +14,7 @@ Untracked - Unmodified - Modified - Staged
 
 \-------------------------------------------
 
+## Gravando Mudancas no Repositorio
 
 * ``` git add ``` (nome do arquivo)  = para sair do Modified para ir para o Staged
 
@@ -21,12 +22,18 @@ Untracked - Unmodified - Modified - Staged
 
 * ```git log``` = Retorna o Historico de todos os commits (letra 'q' para sair do git log)
 
+* ```git diff``` = visualizar as mudanças não confirmadas em um arquivo em relação ao commit mais recente
+
+* ```git diff commit1..commit2``` =  visualizar as mudanças entre dois commits específicos
+
+
+
 
 ## Uso do Comando Restore
 
 * ```git restore``` (nome do arquivo) = Retorna arquivos modificados
 
-* ```git restore``` --staged (nome do arquivo) = Depois de acionar o comando git add, para retornar para o
+* ```git restore --staged``` (nome do arquivo) = Depois de acionar o comando git add, para retornar para o
 
 
 estado de modified usamos esse comando
@@ -41,6 +48,11 @@ estado de modified usamos esse comando
 * ```git pull origin master``` = puxa todas as configurações e modificações que estão na branch master do remoto (git hub)
 
 * ```git branch``` <nome da branch> = criar uma nova branch
+
+* ```git fetch``` <repositório-remoto> = atualiza o repositório local com as mudanças do repositório remoto, sem mesclar automaticamente com a ramificação(branches) atual
+
+* ```git diff origin/master``` =  visualizar as mudanças antes de incorporá-las ao seu trabalho local
+
 
 
 
