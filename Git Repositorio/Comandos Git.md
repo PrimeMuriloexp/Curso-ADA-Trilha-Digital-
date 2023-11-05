@@ -7,9 +7,9 @@
 
 
 ## Estados do Git
-
+<div style="background-color: lightgray; padding: 10px;">
 Untracked - Unmodified - Modified - Staged
-
+</div>
 ^<==== Commited <=========^
 
 \-------------------------------------------
