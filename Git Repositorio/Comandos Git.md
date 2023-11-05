@@ -22,7 +22,7 @@ Untracked - Unmodified - Modified - Staged
 
 * ```git log``` = Retorna o Historico de todos os commits (letra 'q' para sair do git log)
 
-* ```git diff``` = visualizar as mudanças não confirmadas em um arquivo em relação ao commit mais recente
+* ```git diff``` = visualizar as mudanças não confirmadas em um arquivo em relação ao commit mais recente (pressione 'q' para sair do diff)
 
 * ```git diff commit1..commit2``` =  visualizar as mudanças entre dois commits específicos
 
