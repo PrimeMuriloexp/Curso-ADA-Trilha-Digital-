@@ -74,7 +74,7 @@ estado de modified usamos esse comando
 ```checkout``` : O comando "checkout" no Git é usado para alternar entre diferentes branches (ramos) ou até mesmo para criar novas branches.
 
 
--***<span style="font-weight: bold; font-style: italic;">b</span>*** : Esta é uma opção do comando "checkout" que indica que você deseja criar uma nova branch (ramo). Em outras palavras, você está dizendo ao Git que deseja criar uma nova branch.
+- ***<span style="font-weight: bold; font-style: italic;">b</span>*** : Esta é uma opção do comando "checkout" que indica que você deseja criar uma nova branch (ramo). Em outras palavras, você está dizendo ao Git que deseja criar uma nova branch.
 
 ---
 ---
