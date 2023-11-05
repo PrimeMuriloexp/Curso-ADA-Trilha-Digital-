@@ -79,6 +79,10 @@ estado de modified usamos esse comando
 ---
 ---
 
+# Merging branches
+
+* ```git merge``` (nome da branch) = incorporar as alterações de uma branch em outra branch. Geralmente, é usado para mesclar uma branch secundária em uma branch principal, como a "master" ou a "main".
+
 
 
 
