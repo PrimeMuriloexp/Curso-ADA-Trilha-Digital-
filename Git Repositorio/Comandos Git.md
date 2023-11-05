@@ -3,6 +3,7 @@
 ## Repositorios Git
 
 git init = Apos criar seu diretorio local, use esse comando para possibilitar o versionamento no git
+git branch -M master = define a branch master
 
 
 # Estados do Git
@@ -29,6 +30,14 @@ git restore --staged (nome do arquivo) = Depois de acionar o comando git add, pa
 
 
 estado de modified usamos esse comando
+
+
+# Repositorios Remotos
+
+git remote add origin "o link do repositorio criado no github" = define o local do remoto
+git push -u origin <nome da branch> = joga o commit para a branch no repositorio remoto.
+git pull origin master = puxa todas as configurações e modificações que estão na branch master do remoto (git hub)
+git branch <nome da branch> = criar uma nova branch
 
 
 
