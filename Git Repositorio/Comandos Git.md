@@ -55,15 +55,16 @@ estado de modified usamos esse comando
 
 ## Git Branch
 
-* | ```git log --oneline --decorate``` |
+---
+*  ```git log --oneline --decorate``` 
   
- | git log: Este é o comando básico para exibir o histórico de commits. |
+  git log: Este é o comando básico para exibir o histórico de commits. 
 
- | --oneline: Essa opção formata a saída para que cada commit seja exibido em uma única linha, com uma mensagem de commit resumida. |
+  --oneline: Essa opção formata a saída para que cada commit seja exibido em uma única linha, com uma mensagem de commit resumida. 
 
- | --decorate: Essa opção mostra informações adicionais sobre os ramos em que os commits estão localizados. Por exemplo, você verá os rótulos (tags) e nomes das ramificações que apontam para cada commit. |
+  --decorate: Essa opção mostra informações adicionais sobre os ramos em que os commits estão localizados. Por exemplo, você verá os rótulos (tags) e nomes das ramificações que apontam para cada commit. 
 
-
+---
 
 
 
