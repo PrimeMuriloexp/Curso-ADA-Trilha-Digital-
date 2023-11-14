@@ -1,0 +1,10 @@
+Para Comentar apenas uma linha em JAVA escreva: //
+Se o comentário for mais de uma linha escreva: /* (inicio)  */ (fim do comentario)
+
+Para comentar e descomentar codigos selecionados use o atalho: Ctrl + /
+
+para escrever um print de forma rapida no intellj escreva: sout depois tab
+para escrever a expressao 'public static void main(String[] args)' escreva: psvm depois tab
+
+Se voce quiser deixar as casas decimais mais legiveis para outro Dev, pode acrescentar o underline
+Exemplo: int a = 23_456_789 (o underline não altera o codigo, porem fica mais legivel)
